@@ -14,7 +14,7 @@ Postman là một nền tảng toàn diện cho việc phát triển, sử dụn
 * **Bảo mật:** Hỗ trợ các cơ chế bảo mật, xác thực và phân quyền (API Key, Bearer Token, OAuth, v.v.).
 
 ### Giao diện overview
-![Giao diện overview](images/00_overview.png)
+![Giao diện overview]([images/00_overview.png](https://github.com/Sololzy/Postman/blob/main/00_Overview.png))
 
 ---
 
